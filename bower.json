@@ -1,0 +1,35 @@
+{
+  "name": "auth-laravel-angular-jwt-satellizer",
+  "description": "Simple REST API authentication service with Laravel, Angular, Satellizer and JWT.",
+  "main": "",
+  "authors": [
+    "Pete Houston <contact@petehouston.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "laravel",
+    "jwt",
+    "satellizer",
+    "rest",
+    "lumen",
+    "bootstrap"
+  ],
+  "moduleType": [],
+  "homepage": "http://petehouston.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.5",
+    "satellizer": "~0.13.0"
+  }
+}
